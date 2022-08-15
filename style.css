@@ -7,3 +7,11 @@ body {
 .hero, .footer {
     background-color: #1F2937;
 }
+
+.hero {
+    display: flex;
+}
+
+.lefthero, .righthero {
+    flex: 1;
+}
