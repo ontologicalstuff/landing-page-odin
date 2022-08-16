@@ -135,7 +135,9 @@ img {
 }
 
 .quote { 
-    width: 900px;
+    display: flex;
+    flex-direction: column;
+    flex: .5;
 }
 
 figcaption#marcusquote {
@@ -146,7 +148,6 @@ figcaption#marcusquote {
     margin-bottom: 35px;
 }
 blockquote {
-    width: 900px;
     flex-wrap: wrap;
 }
 
