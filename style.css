@@ -12,6 +12,7 @@ body {
 
 .hero {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .lefthero, .righthero {
@@ -146,6 +147,7 @@ figcaption#marcusquote {
 }
 blockquote {
     width: 900px;
+    flex-wrap: wrap;
 }
 
 .bottommain {
