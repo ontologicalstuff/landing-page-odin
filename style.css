@@ -112,6 +112,7 @@ button:hover {
 .picrow {
     display: flex;
     margin-bottom: 50px;
+    flex-wrap : wrap;
 }
 
 figure {
